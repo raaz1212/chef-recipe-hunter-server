@@ -49,241 +49,261 @@
   },
   {
     "id": 2,
-    "chef_picture": "https://img.freepik.com/free-photo/male-chef-kitchen-cooking_23-2148934673.jpg?size=626&ext=jpg&ga=GA1.1.1712736525.1683002556&semt=ais",
-    "chef_name": "Liu Min",
-    "country_name": "China",
-    "years_of_experience": 8,
-    "num_recipes": 25,
-    "likes": 900,
-    "bio": "Chef Liu Min is a talented Chinese chef with over 8 years of experience in the culinary industry. Her recipes are known for their bold flavors and beautiful presentation.",
-    "recipes": [
-      {
-        "recipe_name": "Kung Pao Chicken",
-        "ingredients": [
-          "1 lb boneless, skinless chicken thighs, cut into small pieces",
-          "1/2 cup roasted peanuts",
-          "2 tbsp vegetable oil",
-          "2 cloves garlic, minced",
-          "1 tbsp grated ginger"
-        ],
-        "cooking_method": "1. Heat vegetable oil in a wok over high heat. Add garlic and ginger and stir-fry for 1-2 minutes until fragrant. \n2. Add chicken to the wok and stir-fry for 3-4 minutes until browned. \n3. Add roasted peanuts to the wok and stir-fry for another minute. \n4. Stir in Kung Pao sauce and cook for another minute. \n5. Serve hot with steamed rice.",
-        "rating": 4.6
-      },
-      {
-        "recipe_name": "Hot and Sour Soup",
-        "ingredients": [
-          "4 cups chicken or vegetable broth",
-          "1/2 lb firm tofu, cut into small cubes",
-          "1 cup sliced shiitake mushrooms",
-          "3 tbsp soy sauce",
-          "2 tbsp rice vinegar"
-        ],
-        "cooking_method": "1. In a large pot, bring broth to a boil. \n2. Add tofu, mushrooms, soy sauce and rice vinegar to the pot and stir well. \n3. Reduce heat to medium-low and let soup simmer for 10-15 minutes. \n4. In a small bowl, whisk together cornstarch and water until smooth. \n5. Gradually pour the cornstarch mixture into the soup while stirring constantly. \n6. Let soup cook for another 5 minutes, or until it thickens slightly. \n7. Serve hot.",
-        "rating": 4.8
-      },
-      {
-        "recipe_name": "Steamed Dumplings",
-        "ingredients": [
-          "1 lb ground pork",
-          "1 cup chopped Napa cabbage",
-          "3 cloves garlic, minced",
-          "1 tbsp grated ginger",
-          "2 tbsp soy sauce"
-        ],
-        "cooking_method": "1. In a large bowl, mix together ground pork, Napa cabbage, garlic, ginger and soy sauce until well combined. \n2. Take a dumpling wrapper and place a spoonful of filling in the center. \n3. Dip your finger in water and run it around the edge of the wrapper. \n4. Fold the wrapper in half and pinch the edges together to seal. \n5. Repeat with remaining wrappers and filling. \n6. Place dumplings in a steamer basket and steam for 10-12 minutes, or until cooked through. \n7. Serve hot with soy sauce for dipping.",
-        "rating": 4.5
-      }
-    ]
-  },
-
-  {
-    "id": 3,
-    "chef_picture": "https://img.freepik.com/free-photo/male-chef-uniform-hat-sitting-cutting-cucumber-kitchen_176474-9026.jpg?size=626&ext=jpg&ga=GA1.1.1712736525.1683002556&semt=ais",
-    "chef_name": "Giovanni Rossi",
-    "country_name": "Italy",
-    "years_of_experience": 12,
-    "num_recipes": 40,
-    "likes": 1200,
-    "bio": "Chef Giovanni Rossi is a seasoned Italian chef with over 12 years of experience in the culinary industry. His passion for traditional Italian cuisine is reflected in his delicious recipes.",
-    "recipes": [
-      {
-        "recipe_name": "Spaghetti Carbonara",
-        "ingredients": [
-          "1 lb spaghetti",
-          "1/2 lb pancetta, diced",
-          "4 egg yolks",
-          "1 cup grated Parmesan cheese",
-          "1/2 cup heavy cream"
-        ],
-        "cooking_method": "1. Cook spaghetti according to package instructions. Reserve 1/2 cup of pasta water before draining. \n2. In a large skillet, cook pancetta over medium heat until crispy. \n3. In a bowl, whisk together egg yolks, Parmesan cheese and heavy cream until well combined. \n4. Add cooked spaghetti to the skillet with pancetta and toss to coat. \n5. Remove skillet from heat and add egg mixture, stirring quickly to prevent the eggs from scrambling. \n6. If the pasta seems dry, add reserved pasta water to loosen it up. \n7. Serve hot with additional Parmesan cheese on top.",
-        "rating": 4.9
-      },
-      {
-        "recipe_name": "Margherita Pizza",
-        "ingredients": [
-          "1 lb pizza dough",
-          "1/2 cup tomato sauce",
-          "8 oz fresh mozzarella cheese, sliced",
-          "1/4 cup chopped fresh basil",
-          "2 tbsp olive oil"
-        ],
-        "cooking_method": "1. Preheat oven to 450°F. \n2. Roll out pizza dough to desired thickness and shape. \n3. Spread tomato sauce over the dough, leaving a small border around the edges. \n4. Arrange slices of mozzarella cheese evenly over the sauce. \n5. Drizzle olive oil over the pizza. \n6. Bake for 10-15 minutes until crust is crispy and cheese is melted and bubbly. \n7. Garnish with chopped fresh basil and serve hot.",
-        "rating": 4.7
-      },
-      {
-        "recipe_name": "Tiramisu",
-        "ingredients": [
-          "6 egg yolks",
-          "3/4 cup sugar",
-          "2 cups mascarpone cheese",
-          "1cup heavy cream",
-          "1 cup brewed espresso, cooled",
-          "24 ladyfingers",
-          "2 tbsp cocoa powder"
-        ],
-        "cooking_method": "1. In a large bowl, whisk together egg yolks and sugar until well combined. \n2. Add mascarpone cheese to the bowl and whisk again until smooth. \n3. In a separate bowl, beat heavy cream until stiff peaks form. \n4. Fold whipped cream into the mascarpone mixture until well combined. \n5. Dip ladyfingers in cooled espresso and arrange them in a single layer in the bottom of a 9x13 inch baking dish. \n6. Spread half of the mascarpone mixture over the ladyfingers. \n7. Repeat with another layer of dipped ladyfingers and remaining mascarpone mixture. \n8. Cover and refrigerate for at least 2 hours, or overnight. \n9. Before serving, dust cocoa powder over the top of the tiramisu.",
-        "rating": 4.8
-      }
-    ]
-  },
-
-  {
-    "id": 4,
-    "chef_picture": "https://img.freepik.com/free-photo/portrait-young-male-baker-with-his-arms-crossed-looking-camera_23-2148189025.jpg?size=626&ext=jpg&ga=GA1.1.1712736525.1683002556&semt=ais",
-    "chef_name": "Aarti Singh",
-    "country_name": "India",
-    "years_of_experience": 6,
-    "num_recipes": 20,
-    "likes": 500,
-    "bio": "Chef Aarti Singh is a talented Indian chef with over 6 years of experience in the culinary industry. Her recipes are known for their bold flavors and unique spice combinations.",
-    "recipes": [
-      {
-        "recipe_name": "Butter Chicken",
-        "ingredients": [
-          "1 lb boneless, skinless chicken breasts, cut into small pieces",
-          "1/2 cup plain Greek yogurt",
-          "1/4 cup unsalted butter",
-          "1 onion, chopped",
-          "4 cloves garlic, minced",
-          "2 tbsp grated ginger",
-          "1 tbsp garam masala",
-          "1 tsp paprika",
-          "1 tsp ground cumin",
-          "1/2 tsp ground turmeric",
-          "1/2 tsp cayenne pepper",
-          "1 can (28 oz) crushed tomatoes",
-          "1 cup heavy cream",
-          "1/4 cup chopped fresh cilantro"
-        ],
-        "cooking_method": "1. In a large bowl, mix together chicken and Greek yogurt until well combined. \n2. Melt butter in a large skillet over medium heat. \n3. Add onion, garlic and ginger to the skillet and cook for 2-3 minutes until softened. \n4. Add garam masala, paprika, cumin, turmeric and cayenne pepper to the skillet and stir well. \n5. Add chicken to the skillet and cook for 6-8 minutes until browned on all sides. \n6. Stir in crushed tomatoes and bring mixture to a simmer. \n7. Let sauce cook for 10-15 minutes until slightly thickened. \n8. Stir in heavy cream and let simmer for another 5-10 minutes. \n9. Garnish with chopped cilantro and serve hot with rice or naan bread.",
-        "rating": 4.6
-      },
-      {
-        "recipe_name": "Chana Masala",
-        "ingredients": [
-          "2 cans (15 oz each) chickpeas, drained and rinsed",
-          "1 onion, chopped",
-          "2 cloves garlic, minced",
-          "1 tbsp grated ginger",
-          "1 tsp ground coriander",
-          "1 tsp ground cumin",
-          "1 tsp garam masala",
-          "1/2 tsp ground turmeric",
-          "1/4 tsp cayenne pepper",
-          "1 can (14.5 oz) diced tomatoes",
-          "1/2 cup water",
-          "1/4 cup chopped fresh cilantro"
-        ],
-        "cooking_method": "1. Heat oil in a large skillet over medium heat. \n2. Add onion, garlic and ginger to the skillet and cook for 2-3 minutes until softened. \n3. Add coriander, cumin, garam masala, turmeric and cayenne pepper to the skillet and stir well. \n4. Add chickpeas to the skillet and stir to coat with spice mixture. \n5. Stir in diced tomatoes and water and bring mixture to a simmer. \n6. Let curry simmer for 15-20 minutes until slightly thickened. \n7. Garnish with chopped cilantro and serve hot with rice or naan bread.",
-        "rating": 4.5
-      },
-      {
-        "recipe_name": "Palak Paneer",
-        "ingredients": [
-          "1 lb paneer, cut into small cubes",
-          "1 tbsp ghee or butter",
-          "1 onion, chopped",
-          "4 cloves garlic, minced",
-          "2 tbsp grated ginger",
-          "1 tsp cumin seeds",
-          "1/2 tsp ground turmeric",
-          "1/2 tsp paprika",
-          "1/4 tsp cayenne pepper",
-          "2 bunches fresh spinach, washed and chopped",
-          "1/2 cup heavy cream",
-          "1/4 cup chopped fresh cilantro"
-        ],
-        "cooking_method": "1. Heat ghee or butter in a large skillet over medium heat. \n2. Add onion, garlic and ginger to the skillet and cook for 2-3 minutes until softened. \n3. Add cumin seeds, turmeric, paprika and cayenne pepper to the skillet and stir well. \n4. Add paneer to the skillet and cook for 5-6 minutes until browned on all sides. Remove paneer from skillet and set aside. \n5. Add chopped spinach to the skillet and stir well. \n6. Cover skillet and let spinach cook for 5-7 minutes until wilted. \n7. Puree spinach mixture in a blender or food processor until smooth. \n8. Return pureed spinach mixture to the skillet and stir in heavy cream. \n9. Add paneer back to the skillet and let simmer for another 5-10 minutes. \n10. Garnish with chopped cilantro and serve hot with rice or naan bread.",
-        "rating": 4.7
-      }
-    ]
-  },
-
-  {
-    "id": 5,
-    "chef_picture": "https://img.freepik.com/free-photo/person-cooking-japanese-food_23-2149366815.jpg?size=626&ext=jpg&ga=GA1.1.1712736525.1683002556&semt=ais",
-    "chef_name": "Suman Shrestha",
-    "country_name": "Nepal",
+    "chef_picture": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5342.jpg?size=626&ext=jpg&ga=GA1.1.1712736525.1683002556&semt=ais",
+    "chef_name": "Juan Martinez",
+    "country_name": "Mexico",
     "years_of_experience": 8,
     "num_recipes": 25,
     "likes": 700,
-    "bio": "Chef Suman Shrestha is a Nepali chef with over 8 years of experience in creating authentic Nepalese dishes. He's known for his creative use of spices and fresh ingredients.",
+    "bio": "Chef Juan Martinez is a talented Mexican chef who has been cooking for over 8 years. He specializes in creating traditional and innovative Mexican dishes that are bursting with flavor.",
     "recipes": [
       {
-        "recipe_name": "Momo",
+        "recipe_name": "Taco Salad",
         "ingredients": [
-          "1 lb ground chicken or pork",
-          "2 cups all-purpose flour",
-          "1/2 cup water",
-          "1 onion, finely chopped",
-          "4 cloves garlic, minced",
-          "1 tbsp grated ginger",
-          "1/4 cup chopped fresh cilantro",
-          "1 tsp ground cumin",
-          "1 tsp ground coriander",
-          "1/2 tsp turmeric",
-          "1/4 tsp cayenne pepper",
-          "Salt and pepper to taste"
+          "1 lb. ground beef",
+          "1/2 onion, diced",
+          "1 can black beans, rinsed and drained",
+          "1 can corn, drained",
+          "1 large tomato, chopped",
+          "1 avocado, diced",
+          "1/4 cup cilantro, chopped",
+          "1 package taco seasoning mix",
+          "12 oz. Tortilla chips, crushed",
+          "3 cups shredded lettuce",
+          "1 cup shredded cheddar cheese",
+          "1/2 cup salsa",
+          "1/2 cup sour cream"
         ],
-        "cooking_method": "1. In a large bowl, mix together flour and water until a smooth dough forms. \n2. Cover dough and let rest for 30 minutes. \n3. In a separate bowl, mix together ground meat, onion, garlic, ginger, cilantro, cumin, coriander, turmeric, cayenne pepper, salt, and pepper until well combined. \n4. Roll out dough into thin circles. \n5. Place a spoonful of meat mixture in the center of each circle. \n6. Fold dough over filling and pinch edges together to seal. \n7. Steam momos for 10-12 minutes until cooked through. \n8. Serve hot with a dipping sauce made from soy sauce, vinegar, and chili flakes.",
+        "cooking_method": "1. In a large skillet, cook the ground beef and onion over medium heat until browned. Drain any excess fat. \n2. Add the black beans, corn, tomato, avocado, and cilantro to the skillet and stir to combine. Heat through. \n3. Add the taco seasoning mix and stir to combine. \n4. In a large bowl, toss together the crushed tortilla chips and shredded lettuce. \n5. Spoon the beef mixture over the lettuce mixture. Top with shredded cheese, salsa, and sour cream. \n6. Serve immediately.",
+        "rating": 4.2
+      },
+      {
+        "recipe_name": "Chiles Rellenos",
+        "ingredients": [
+          "6 poblano peppers",
+          "1 lb. ground pork",
+          "1/2 onion, chopped",
+          "2 cloves garlic, minced",
+          "1/2 cup long-grain white rice",
+          "1/2 cup diced tomatoes",
+          "1/2 cup corn",
+          "1 tsp. cumin",
+          "1 tsp. salt",
+          "1/2 tsp. black pepper",
+          "1/2 cup shredded cheddar cheese",
+          "1/4 cup chopped fresh cilantro"
+        ],
+        "cooking_method": "1. Preheat oven to 350°F. Lightly oil a baking dish. \n2. Roast the poblano peppers over an open flame or under the broiler until the skin is charred on all sides. Place the peppers in a paper bag and let them cool for 10 minutes. Peel off the skin. \n3. In a skillet, cook the ground pork, onion, and garlic over medium-high heat until the pork is cooked through. Drain any excess fat. \n4. Stir in the rice, tomatoes, corn, cumin, salt, and black pepper. Cook for 5 minutes, stirring occasionally. \n5. Stuff the poblano peppers with the pork mixture. Place them in the prepared baking dish. \n6. Sprinkle the cheese on top of the peppers. \n7. Bake for 15-20 minutes, until the cheese is melted and bubbly. \n8. Garnish with cilantro and serve hot.",
+        "rating": 4.6
+      },
+      {
+        "recipe_name": "Mole Poblano",
+        "ingredients": [
+          "3 dried ancho chiles, stemmed and seeded",
+          "3 dried pasilla chiles, stemmed and seeded",
+          "2 cups chicken broth",
+          "1/2 cup raisins",
+          "1/4 cup slivered almonds",
+          "3 tbsp. sesame seeds",
+          "1/4 cup vegetable oil",
+          "1 onion, chopped",
+          "3 cloves garlic, minced",
+          "1 tsp. ground cinnamon",
+          "1/2 tsp. ground allspice",
+          "1/4 tsp. ground cloves",
+          "1/2 oz. dark chocolate, chopped",
+          "2 tbsp. sugar",
+          "1 tbsp. red wine vinegar",
+          "1 turkey breast (about 2 1/2 lbs.), cooked and shredded"
+        ],
+        "cooking_method": "1. Pre heat oven to 350°F. \n2. In a large skillet, toast the ancho chiles and pasilla chiles over medium heat until fragrant, about 2 minutes per side. \n3. In a blender, combine the toasted chiles, chicken broth, raisins, almonds, and sesame seeds. Puree until smooth. \n4. In the same skillet, heat the vegetable oil over medium-high heat. Add the onion and garlic and cook until softened, about 5 minutes. \n5. Add the cinnamon, allspice, and cloves and cook for 1 minute. \n6. Add the pureed chile mixture to the skillet and bring to a boil. Reduce heat to low and simmer for 20-30 minutes, stirring occasionally. \n7. Stir in the dark chocolate, sugar, and vinegar and cook until the chocolate is melted and everything is well combined, about 5 minutes. \n8. Add the shredded turkey to the skillet and stir to coat with the mole sauce. \n9. Transfer the turkey and sauce to a baking dish and bake for 25-30 minutes, until heated through. \n10. Serve hot.",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "chef_picture": "https://img.freepik.com/free-photo/male-chef-kitchen-cooking_23-2148934673.jpg?size=626&ext=jpg&ga=GA1.1.1712736525.1683002556&semt=ais",
+    "chef_name": "Pedro Sanchez",
+    "country_name": "Mexico",
+    "years_of_experience": 12,
+    "num_recipes": 35,
+    "likes": 1200,
+    "bio": "Chef Pedro Sanchez is a veteran of the culinary world, with over 12 years of experience crafting delicious, authentic Mexican dishes. His passion for cooking began at an early age and has only grown stronger over time.",
+    "recipes": [
+      {
+        "recipe_name": "Tamales",
+        "ingredients": [
+          "2 cups masa harina",
+          "1 tsp. baking powder",
+          "1/2 tsp. salt",
+          "1/2 cup vegetable shortening",
+          "1 1/2 cups chicken broth",
+          "1 lb. pork shoulder, cooked and shredded",
+          "1 can (16 oz.) tomato sauce",
+          "1 tbsp. chili powder",
+          "1 tsp. ground cumin"
+        ],
+        "cooking_method": "1. In a large bowl, combine the masa harina, baking powder, and salt. \n2. In another bowl, cream together the vegetable shortening until light and fluffy. Gradually add the masa mixture, mixing well between additions. \n3. Slowly stir in the chicken broth, mixing until a soft dough forms. \n4. Rinse corn husks in hot water for 15 minutes, or until they become pliable. \n5. Spread about 2 tablespoons of the masa mixture onto each corn husk. Add a spoonful of shredded pork to the center of each husk. \n6. Roll up the tamale and fold the bottom end under. \n7. In a large pot, steam the tamales for 1 hour. \n8. In another pot, combine the tomato sauce, chili powder, and cumin. Simmer for 10 minutes. \n9. To serve, spoon some of the sauce over the tamales.",
         "rating": 4.9
       },
       {
-        "recipe_name": "Dal Bhat",
+        "recipe_name": "Churros",
         "ingredients": [
-          "1 cup red lentils",
-          "3 cups water",
+          "1 cup water",
+          "2 tbsp. sugar",
+          "1/2 tsp. salt",
+          "2 tbsp. vegetable oil",
+          "1 cup all-purpose flour",
+          "2 quarts oil for frying",
+          "1/2 cup sugar",
+          "1 tsp. ground cinnamon"
+        ],
+        "cooking_method": "1. In a saucepan, combine the water, 2 tablespoons of sugar, salt, and 2 tablespoons of vegetable oil. Bring to a boil over high heat. \n2. Remove from heat and stir in the flour until it forms a ball. \n3. Heat the oil for frying in a deep-fryer or deep skillet to 375°F. \n4. Pipe strips of dough into the hot oil using a pastry bag. Fry until golden brown. Drain on paper towels. \n5. Combine the remaining 1/2 cup of sugar and 1 teaspoon of cinnamon. Roll the churros in the cinnamon sugar mixture.",
+        "rating": 4.2
+      },
+      {
+        "recipe_name": "Pozole Rojo",
+        "ingredients": [
           "1 onion, chopped",
           "2 cloves garlic, minced",
-          "1 tbsp grated ginger",
-          "1 tsp ground cumin",
-          "1 tsp ground coriander",
-          "1/2 tsp turmeric",
-          "1/4 tsp cayenne pepper",
+          "1 tbsp. vegetable oil",
+          "2 lbs. pork shoulder, cut into chunks",
+          "6 cups chicken broth",
+          "3 dried ancho chiles, stemmed and seeded",
+          "3 dried guajillo chiles, stemmed and seeded",
+          "1 can (28 oz.) hominy, drained",
+          "1 tbsp. oregano",
+          "1 tsp. ground cumin",
           "Salt and pepper to taste",
-          "2 cups cooked rice"
+          "Lime wedges, sliced radishes, and shredded cabbage for serving"
         ],
-        "cooking_method": "1. Rinse lentils in a fine mesh strainer and pick out any debris. \n2. In a large pot, combine lentils, water, onion, garlic, ginger, cumin, coriander, turmeric, cayenne pepper, salt, and pepper. \n3. Bring mixture to a boil then reduce heat and let simmer for 20-25 minutes until lentils are tender. \n4. Serve dal with cooked rice.",
+        "cooking_method": "1. In a large pot, sauté the onion and garlic in the vegetable oil until softened. \n2. Add the pork and brown on all sides. \n3. Pour in the chicken broth and bring to a boil. Reduce heat and simmer for 1 hour. \n4. While the pork is cooking, toast the ancho and guajillo chiles in a dry skillet over medium-high heat until fragrant, about 1-2 minutes per side. \n5. Place the toasted chiles in a bowl and cover with hot water. Let them soak for 10-15 minutes, until softened. \n6. In a blender, puree the soaked chiles until smooth. Strain the puree into the pot with the pork and broth. \n7. Add the hominy, oregano, and cumin to the pot. Simmer for another 30 minutes, until the pork is tender and the flavors have melded together. \n8. Season with salt and pepper to taste. \n9. Serve hot with lime wedges, sliced radishes, and shredded cabbage.",
+        "rating": 4.7
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "chef_picture": "https://img.freepik.com/free-photo/person-cooking-japanese-food_23-2149366815.jpg?size=626&ext=jpg&ga=GA1.1.1712736525.1683002556&semt=ais",
+    "chef_name": "Ana Rodriguez",
+    "country_name": "Mexico",
+    "years_of_experience": 10,
+    "num_recipes": 28,
+    "likes": 900,
+    "bio": "Chef Ana Rodriguez is a talented Mexican chef who has been cooking for over 10 years. She specializes in creating traditional and modern Mexican dishes that showcase the flavors and ingredients of her country.",
+    "recipes": [
+      {
+        "recipe_name": "Enchiladas Verdes",
+        "ingredients": [
+          "12 corn tortillas",
+          "2 cups cooked chicken, shredded",
+          "1/2 onion, chopped",
+          "1 can (4 oz.) chopped green chilies",
+          "1 cup sour cream",
+          "2 cups shredded Monterey Jack cheese",
+          "1 can (28 oz.) green enchilada sauce",
+          "1/4 cup chopped fresh cilantro"
+        ],
+        "cooking_method": "1. Preheat oven to 350°F. \n2. In a large bowl, combine the chicken, onion, green chilies, and sour cream. Stir in 1 cup of the shredded cheese. \n3. Spoon some of the enchilada sauce into a 9x13 inch baking dish. \n4. Dip each tortilla into the remaining enchilada sauce to coat. Spoon about 1/4 cup of the chicken mixture onto each tortilla. Roll up the tortillas and place them seam-side down in the baking dish. \n5. Pour the remaining enchilada sauce over the rolled tortillas. Sprinkle with the remaining shredded cheese. \n6. Bake for 20-25 minutes, until the cheese is melted and bubbly. \n7. Garnish with cilantro and serve hot.",
+        "rating": 4.6
+      },
+      {
+        "recipe_name": "Sopa de Tortilla",
+        "ingredients": [
+          "1 onion, chopped",
+          "1 clove garlic, minced",
+          "1 tbsp. vegetable oil",
+          "1 can (14.5 oz.) diced tomatoes",
+          "4 cups chicken broth",
+          "1 tsp. ground cumin",
+          "1 tsp. chili powder",
+          "1/4 tsp. cayenne pepper",
+          "Salt and pepper to taste",
+          "10 corn tortillas, cut into strips",
+          "Oil for frying",
+          "1 avocado, diced",
+          "1/4 cup chopped fresh cilantro",
+          "1/2 cup shredded Monterey Jack cheese",
+          "Lime wedges for serving"
+        ],
+        "cooking_method": "1. In a large pot, sauté the onion and garlic in the vegetable oil until softened. \n2. Add the diced tomatoes, chicken broth, cumin, chili powder, cayenne pepper, salt, and pepper to the pot. Bring to a boil, then reduce heat and simmer for 10-15 minutes. \n3. While the soup is simmering, fry the tortilla strips in oil until crispy. Drain on paper towels. \n4. To serve, ladle the soup into bowls. Top with fried tortilla strips, diced avocado, cilantro, and shredded cheese. \n5. Serve hot with lime wedges.",
+        "rating": 4.8
+      },
+      {
+        "recipe_name": "Tostadas",
+        "ingredients": [
+          "1 lb. ground beef",
+          "1/2 onion, chopped",
+          "1 can (16 oz.) refried beans",
+          "1 can (4 oz.) chopped green chilies",
+          "1 tbsp. chili powder",
+          "1 tsp. ground cumin",
+          "1/2 tsp. salt",
+          "8 tostada shells",
+          "2 cups shredded lettuce",
+          "1 tomato, diced",
+          "1 cup shredded cheddar cheese",
+          "Sour cream and salsa for serving"
+        ],
+        "cooking_method": "1. In a large skillet, cook the ground beef and onion over medium-high heat until browned. Drain off any excess fat. \n2. Stir in the refried beans, green chilies, chili powder, cumin, and salt. Cook for 5-10 minutes, until heated through and well combined. \n3. To assemble the tostadas, spread some of the beef mixture onto each tostada shell. Top with shredded lettuce, diced tomato, and shredded cheddar cheese. \n4. Serve with sour cream and salsa.",
+        "rating": 4.3
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "chef_picture": "https://img.freepik.com/free-photo/portrait-young-male-baker-with-his-arms-crossed-looking-camera_23-2148189025.jpg?size=626&ext=jpg&ga=GA1.1.1712736525.1683002556&semt=ais",
+    "chef_name": "Maria Torres",
+    "country_name": "Mexico",
+    "years_of_experience": 12,
+    "num_recipes": 36,
+    "likes": 1200,
+    "bio": "Chef Maria Torres is a talented chef with over 12 years of experience cooking delicious Mexican dishes. She is passionate about sharing her love of Mexican cuisine with others and creating meals that evoke memories and emotions.",
+    "recipes": [
+      {
+        "recipe_name": "Pico de Gallo",
+        "ingredients": [
+          "4 ripe tomatoes, diced",
+          "1/2 onion, chopped",
+          "1/4 cup chopped fresh cilantro",
+          "2 jalapeño peppers, seeded and minced",
+          "2 cloves garlic, minced",
+          "2 tbsp. lime juice",
+          "Salt and pepper to taste"
+        ],
+        "cooking_method": "1. In a medium bowl, combine the tomatoes, onion, cilantro, jalapeño peppers, and garlic. \n2. Drizzle with lime juice and stir well to combine. \n3. Season with salt and pepper to taste. \n4. Refrigerate for at least 30 minutes before serving to allow the flavors to meld together.",
         "rating": 4.5
       },
       {
-        "recipe_name": "Aloo Tama",
+        "recipe_name": "Tacos al Pastor",
         "ingredients": [
-          "2 cups bamboo shoots (tama), soaked and drained",
-          "2 medium potatoes, peeled and cut into small cubes",
-          "1 onion, chopped",
-          "2 cloves garlic, minced",
-          "1 tbsp grated ginger",
-          "1 tomato, chopped",
-          "1 tsp mustard seeds",
-          "1 tsp cumin seeds",
-          "1 tsp ground coriander",
-          "1/2 tsp turmeric",
-          "1/4 tsp cayenne pepper",
+          "2 lbs. pork shoulder, sliced into thin strips",
+          "1 onion, sliced",
+          "4 cloves garlic, minced",
+          "1 can (7 oz.) chipotle peppers in adobo sauce",
+          "1/2 cup pineapple juice",
+          "2 tbsp. white vinegar",
+          "2 tsp. dried oregano",
           "Salt and pepper to taste",
-          "2 tbsp vegetable oil"
+          "Corn tortillas, chopped cilantro, diced onion, and lime wedges for serving"
         ],
-        "cooking_method": "1. Heat oil in a large skillet over medium heat. \n2. Add onion, garlic, ginger, mustard seeds, and cumin seeds to the skillet and cook for 2-3 minutes until fragrant. \n3. Add potatoes to the skillet and cook for 5-6 minutes until slightly browned. \n4. Stir in bamboo shoots, tomato, coriander, turmeric, cayenne pepper, salt, and pepper. \n5. Cover skillet and let mixture cook for 15-20 minutes until potatoes are tender. \n6. Serve hot with rice.",
+        "cooking_method": "1. In a blender, puree the chipotle peppers and adobo sauce until smooth. \n2. In a large bowl, combine the pork strips, onion, garlic, pureed chipotle peppers, pineapple juice, white vinegar, oregano, salt, and pepper. Stir well to coat the pork. \n3. Cover and refrigerate for at least 2 hours, or overnight. \n4. Preheat grill or grill pan to medium-high heat. \n5. Thread the marinated pork strips onto skewers. Grill for 8-10 minutes per side, until cooked through and slightly charred. \n6. Meanwhile, warm the corn tortillas on the grill or in a dry skillet. \n7. To assemble the tacos, spoon some of the grilled pork onto each warm tortilla. Top with chopped cilantro and diced onion. Serve with lime wedges.",
+        "rating": 4.9
+      },
+      {
+        "recipe_name": "Churros",
+        "ingredients": [
+          "1 cup water",
+          "1/2 cup unsalted butter",
+          "1/4 tsp. salt",
+          "1 cup all-purpose flour",
+          "3 eggs",
+          "1/2 cup granulated sugar",
+          "1 tsp. ground cinnamon",
+          "Vegetable oil for frying"
+        ],
+        "cooking_method": "1. In a medium saucepan, combine the water, butter, and salt. Bring to a boil over medium-high heat. \n2. Reduce heat to low and add the flour all at once. Stir vigorously until the mixture forms a ball and pulls away from the sides of the pan. \n3. Remove the pan from the heat and let cool for 5 minutes. \n4. Beat in the eggs one at a time, stirring well after each addition, until the batter is smooth and shiny. \n5. In a shallow bowl, combine the sugar and cinnamon. Set aside. \n6. Heat vegetable oil in a deep skillet or pot to 375°F. \n7. Spoon the churro batter into a pastry bag fitted with a star tip. Pipe 4-6 inch lengths of dough into the hot oil, cutting them off with scissors. Fry until golden brown, turning occasionally. Drain on paper towels. \n8. Roll the warm churros in the cinnamon-sugar mixture until coated. Serve immediately.",
         "rating": 4.7
       }
     ]
@@ -291,64 +311,62 @@
 
   {
     "id": 6,
-    "chef_picture": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5342.jpg?size=626&ext=jpg&ga=GA1.1.1712736525.1683002556&semt=ais",
-    "chef_name": "Tashi Wangdi",
-    "country_name": "Bhutan",
-    "years_of_experience": 10,
-    "num_recipes": 30,
-    "likes": 800,
-    "bio": "Chef Tashi Wangdi is a Bhutanese chef with over 10 years of experience in cooking traditional Bhutanese cuisine. He's known for his use of local ingredients and unique flavor combinations.",
+    "chef_picture": "https://img.freepik.com/free-photo/male-chef-uniform-hat-sitting-cutting-cucumber-kitchen_176474-9026.jpg?size=626&ext=jpg&ga=GA1.1.1712736525.1683002556&semt=ais",
+    "chef_name": "Juan Rodriguez",
+    "country_name": "Mexico",
+    "years_of_experience": 18,
+    "num_recipes": 47,
+    "likes": 1800,
+    "bio": "Chef Juan Rodriguez is a seasoned chef with over 18 years of experience cooking delicious Mexican cuisine. His passion for cooking began when he was a child, watching his mother and grandmother prepare traditional dishes with love and care.",
     "recipes": [
       {
-        "recipe_name": "Ema Datshi",
+        "recipe_name": "Enchiladas Verdes",
         "ingredients": [
-          "6-8 green chili peppers, chopped",
-          "1 onion, sliced",
-          "4 cloves garlic, minced",
-          "2 tbsp vegetable oil",
-          "1/2 cup water",
-          "1/2 cup shredded cheese (preferably yak cheese)",
-          "Salt to taste"
+          "12 corn tortillas",
+          "3 cups cooked shredded chicken",
+          "1/2 onion, chopped",
+          "2 cloves garlic, minced",
+          "1 can (4 oz.) diced green chilies",
+          "1/2 cup chopped fresh cilantro",
+          "1 cup chicken broth",
+          "1 cup sour cream",
+          "1 cup shredded Monterey Jack cheese",
+          "Salt and pepper to taste",
+          "Vegetable oil for frying"
         ],
-        "cooking_method": "1. Heat oil in a large skillet over medium heat. \n2. Add onion and garlic to the skillet and cook for 2-3 minutes until softened. \n3. Add chopped chili peppers to the skillet and stir well. \n4. Add water to the skillet and bring mixture to a simmer. \n5. Let mixture cook for 10-15 minutes until slightly thickened. \n6. Stir in shredded cheese and let melt into the mixture. \n7. Serve hot with steamed rice.",
+        "cooking_method": "1. In a large skillet, heat the vegetable oil over medium-high heat. \n2. Dip each corn tortilla into the hot oil for a few seconds, until softened and pliable. Drain on paper towels. \n3. Preheat oven to 350°F. \n4. In another skillet, cook the chicken, onion, and garlic over medium heat until browned. Add the green chilies, cilantro, and chicken broth. Cook for 5-10 minutes, until heated through and well combined. \n5. Remove from heat and stir in the sour cream and shredded Monterey Jack cheese. Season with salt and pepper to taste. \n6. Spoon some of the chicken mixture onto each tortilla. Roll up and place seam-side down in a greased baking dish. \n7. Bake for 15-20 minutes, until heated through and the cheese is melted and bubbly. \n8. Serve hot with your favorite toppings.",
         "rating": 4.8
       },
       {
-        "recipe_name": "Phaksha Paa",
+        "recipe_name": "Guacamole",
         "ingredients": [
-          "1 lb pork belly, cut into bite-sized pieces",
-          "1 onion, chopped",
+          "3 ripe avocados, peeled and pitted",
+          "1/2 onion, chopped",
           "2 cloves garlic, minced",
-          "1 tbsp grated ginger",
-          "1 tomato, chopped",
-          "1 tsp cumin seeds",
-          "1 tsp coriander seeds",
-          "1 tsp turmeric",
-          "1/2 tsp cayenne pepper",
-          "Salt and pepper to taste",
-          "2 tbsp vegetable oil"
+          "1 jalapeño pepper, seeded and minced",
+          "2 tbsp. lime juice",
+          "1/4 cup chopped fresh cilantro",
+          "Salt and pepper to taste"
         ],
-        "cooking_method": "1. Heat oil in a large skillet over medium heat. \n2. Add onion, garlic, ginger, cumin seeds, and coriander seeds to the skillet and cook for 2-3 minutes until fragrant. \n3. Add pork to the skillet and cook for 8-10 minutes until browned on all sides. \n4. Stir in tomato, turmeric, cayenne pepper, salt, and pepper. \n5. Cover skillet and let mixture simmer for 20-25 minutes until pork is tender. \n6. Serve hot with rice or buckwheat noodles.",
+        "cooking_method": "1. In a medium bowl, mash the avocados with a fork or potato masher until desired consistency is reached. \n2. Stir in the onion, garlic, jalapeño pepper, lime juice, and cilantro. \n3. Season with salt and pepper to taste. \n4. Refrigerate for at least 30 minutes before serving to allow the flavors to meld together.",
         "rating": 4.6
       },
       {
-        "recipe_name": "Jasha Maroo",
+        "recipe_name": "Sopa de Fideo",
         "ingredients": [
-          "1 lb boneless chicken thighs, cut into bite-sized pieces",
+          "1 lb. fideo (vermicelli pasta)",
+          "2 tbsp. vegetable oil",
           "1 onion, chopped",
           "2 cloves garlic, minced",
-          "1 tbsp grated ginger",
-          "1 tomato, chopped",
-          "1 tsp ground cumin",
-          "1 tsp ground coriander",
-          "1/2 tsp ground turmeric",
-          "1/4 tsp cayenne pepper",
+          "1 can (14.5 oz.) diced tomatoes",
+          "8 cups chicken broth",
+          "1 tsp. ground cumin",
+          "1/2 tsp. dried oregano",
           "Salt and pepper to taste",
-          "2 tbsp vegetable oil",
-          "1/4 cup chopped fresh cilantro"
+          "Lime wedges, chopped cilantro, and diced avocado for serving"
         ],
-        "cooking_method": "1. Heat oil in a large skillet over medium heat. \n2. Add onion, garlic, and ginger to the skillet and cook for 2-3 minutes until softened. \n3. Add chicken to the skillet and cook for 6-8 minutes until browned on all sides. \n4. Stir in tomato, cumin, coriander, turmeric, cayenne pepper, salt, and pepper. \n5. Cover skillet and let mixture simmer for 20-25 minutes until chicken is cooked through. \n6. Garnish with chopped cilantro and serve hot with rice or buckwheat noodles.",
-        "rating": 4.7
+        "cooking_method": "1. In a large skillet, heat the vegetable oil over medium-high heat. \n2. Add the fideo and cook, stirring frequently, until browned and toasted, about 5 minutes. \n3. Add the onion and garlic and cook for another 2-3 minutes, until softened. \n4. Add the diced tomatoes, chicken broth, cumin, oregano, salt, and pepper. Bring to a boil, then reduce heat to low and simmer for 10-15 minutes, until the pasta is tender and the soup is heated through. \n5. Serve hot with lime wedges, chopped cilantro, and diced avocado.",
+        "rating": 4.5
       }
     ]
   }
