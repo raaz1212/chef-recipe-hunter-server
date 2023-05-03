@@ -14,3 +14,12 @@ app.get("/", (req, res) => {
 app.get("/chefs", (req, res) => {
   res.send(chefs);
 });
+app.get("/chefs/:id", (req, res) => {
+  const id = parseInt(req.params.id);
+  const chef = chefs.find((chef) => chef.id === id) || {};
+  res.send(chef);
+});
+
+app.listen(port, () => {
+  console.log(`chef server port: ${port}`);
+});
