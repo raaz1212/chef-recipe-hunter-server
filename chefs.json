@@ -1,49 +1,355 @@
 [
-    {
-      "id": 1,
-      "chef_picture": "https://img.freepik.com/free-photo/happy-cook-smelling-salad-with-meat-plate_23-2148040176.jpg?size=626&ext=jpg&ga=GA1.1.1712736525.1683002556&semt=ais",
-      "chef_name": "Maria Garcia",
-      "country_name": "Mexico",
-      "years_of_experience": 10,
-      "num_recipes": 30,
-      "likes": 800,
-      "bio": "Chef Maria Garcia is a renowned Mexican chef with over 10 years of experience in the culinary industry. Her passion for authentic Mexican flavors and ingredients is reflected in her delicious recipes.",
-      "recipes": [
-        {
-          "recipe_name": "Chicken Enchiladas",
-          "ingredients": [
-            "2 cups cooked and shredded chicken",
-            "8-10 corn tortillas",
-            "1 cup enchilada sauce",
-            "1 cup shredded cheddar cheese",
-            "1/4 cup chopped cilantro"
-          ],
-          "cooking_method": "1. Preheat oven to 375°F. \n2. Spread 1/4 cup of enchilada sauce on the bottom of a baking dish. \n3. Dip each tortilla in the remaining enchilada sauce and fill with shredded chicken. \n4. Roll up each tortilla and place in baking dish seam-side down. \n5. Pour remaining enchilada sauce over the enchiladas and sprinkle with shredded cheese. \n6. Bake for 20-25 minutes until cheese is melted and bubbly. \n7. Garnish with chopped cilantro and serve hot.",
-          "rating": 4.5
-        },
-        {
-          "recipe_name": "Guacamole",
-          "ingredients": [
-            "3 ripe avocados",
-            "1/4 cup chopped red onion",
-            "1/4 cup chopped fresh cilantro",
-            "2 tbsp lime juice",
-            "1 jalapeno pepper, seeded and minced"
-          ],
-          "cooking_method": "1. Cut avocados in half, remove the pit and scoop out the flesh into a bowl. \n2. Add red onion, cilantro, lime juice and jalapeno pepper to the bowl. \n3. Mash everything together with a fork until desired consistency is reached. \n4. Serve immediately with tortilla chips or as a condiment for tacos, burritos, etc.",
-          "rating": 4.7
-        },
-        {
-          "recipe_name": "Pico de Gallo",
-          "ingredients": [
-            "4 Roma tomatoes, diced",
-            "1/4 cup finely diced red onion",
-            "1/4 cup chopped fresh cilantro",
-            "1 jalapeno pepper, seeded and minced",
-            "2 tbsp lime juice"
-          ],
-          "cooking_method": "1. In a bowl, mix together diced tomatoes, red onion, cilantro and jalapeno pepper. \n2. Drizzle lime juice over the mixture and toss everything together. \n3. Refrigerate for at least 30 minutes before serving to allow flavors to meld together. \n4. Serve with tortilla chips or as a condiment for tacos, burritos, etc.",
-          "rating": 4.3
-        }
-      ]
-    },
+  {
+    "id": 1,
+    "chef_picture": "https://img.freepik.com/free-photo/happy-cook-smelling-salad-with-meat-plate_23-2148040176.jpg?size=626&ext=jpg&ga=GA1.1.1712736525.1683002556&semt=ais",
+    "chef_name": "Maria Garcia",
+    "country_name": "Mexico",
+    "years_of_experience": 10,
+    "num_recipes": 30,
+    "likes": 800,
+    "bio": "Chef Maria Garcia is a renowned Mexican chef with over 10 years of experience in the culinary industry. Her passion for authentic Mexican flavors and ingredients is reflected in her delicious recipes.",
+    "recipes": [
+      {
+        "recipe_name": "Chicken Enchiladas",
+        "ingredients": [
+          "2 cups cooked and shredded chicken",
+          "8-10 corn tortillas",
+          "1 cup enchilada sauce",
+          "1 cup shredded cheddar cheese",
+          "1/4 cup chopped cilantro"
+        ],
+        "cooking_method": "1. Preheat oven to 375°F. \n2. Spread 1/4 cup of enchilada sauce on the bottom of a baking dish. \n3. Dip each tortilla in the remaining enchilada sauce and fill with shredded chicken. \n4. Roll up each tortilla and place in baking dish seam-side down. \n5. Pour remaining enchilada sauce over the enchiladas and sprinkle with shredded cheese. \n6. Bake for 20-25 minutes until cheese is melted and bubbly. \n7. Garnish with chopped cilantro and serve hot.",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Guacamole",
+        "ingredients": [
+          "3 ripe avocados",
+          "1/4 cup chopped red onion",
+          "1/4 cup chopped fresh cilantro",
+          "2 tbsp lime juice",
+          "1 jalapeno pepper, seeded and minced"
+        ],
+        "cooking_method": "1. Cut avocados in half, remove the pit and scoop out the flesh into a bowl. \n2. Add red onion, cilantro, lime juice and jalapeno pepper to the bowl. \n3. Mash everything together with a fork until desired consistency is reached. \n4. Serve immediately with tortilla chips or as a condiment for tacos, burritos, etc.",
+        "rating": 4.7
+      },
+      {
+        "recipe_name": "Pico de Gallo",
+        "ingredients": [
+          "4 Roma tomatoes, diced",
+          "1/4 cup finely diced red onion",
+          "1/4 cup chopped fresh cilantro",
+          "1 jalapeno pepper, seeded and minced",
+          "2 tbsp lime juice"
+        ],
+        "cooking_method": "1. In a bowl, mix together diced tomatoes, red onion, cilantro and jalapeno pepper. \n2. Drizzle lime juice over the mixture and toss everything together. \n3. Refrigerate for at least 30 minutes before serving to allow flavors to meld together. \n4. Serve with tortilla chips or as a condiment for tacos, burritos, etc.",
+        "rating": 4.3
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "chef_picture": "https://img.freepik.com/free-photo/male-chef-kitchen-cooking_23-2148934673.jpg?size=626&ext=jpg&ga=GA1.1.1712736525.1683002556&semt=ais",
+    "chef_name": "Liu Min",
+    "country_name": "China",
+    "years_of_experience": 8,
+    "num_recipes": 25,
+    "likes": 900,
+    "bio": "Chef Liu Min is a talented Chinese chef with over 8 years of experience in the culinary industry. Her recipes are known for their bold flavors and beautiful presentation.",
+    "recipes": [
+      {
+        "recipe_name": "Kung Pao Chicken",
+        "ingredients": [
+          "1 lb boneless, skinless chicken thighs, cut into small pieces",
+          "1/2 cup roasted peanuts",
+          "2 tbsp vegetable oil",
+          "2 cloves garlic, minced",
+          "1 tbsp grated ginger"
+        ],
+        "cooking_method": "1. Heat vegetable oil in a wok over high heat. Add garlic and ginger and stir-fry for 1-2 minutes until fragrant. \n2. Add chicken to the wok and stir-fry for 3-4 minutes until browned. \n3. Add roasted peanuts to the wok and stir-fry for another minute. \n4. Stir in Kung Pao sauce and cook for another minute. \n5. Serve hot with steamed rice.",
+        "rating": 4.6
+      },
+      {
+        "recipe_name": "Hot and Sour Soup",
+        "ingredients": [
+          "4 cups chicken or vegetable broth",
+          "1/2 lb firm tofu, cut into small cubes",
+          "1 cup sliced shiitake mushrooms",
+          "3 tbsp soy sauce",
+          "2 tbsp rice vinegar"
+        ],
+        "cooking_method": "1. In a large pot, bring broth to a boil. \n2. Add tofu, mushrooms, soy sauce and rice vinegar to the pot and stir well. \n3. Reduce heat to medium-low and let soup simmer for 10-15 minutes. \n4. In a small bowl, whisk together cornstarch and water until smooth. \n5. Gradually pour the cornstarch mixture into the soup while stirring constantly. \n6. Let soup cook for another 5 minutes, or until it thickens slightly. \n7. Serve hot.",
+        "rating": 4.8
+      },
+      {
+        "recipe_name": "Steamed Dumplings",
+        "ingredients": [
+          "1 lb ground pork",
+          "1 cup chopped Napa cabbage",
+          "3 cloves garlic, minced",
+          "1 tbsp grated ginger",
+          "2 tbsp soy sauce"
+        ],
+        "cooking_method": "1. In a large bowl, mix together ground pork, Napa cabbage, garlic, ginger and soy sauce until well combined. \n2. Take a dumpling wrapper and place a spoonful of filling in the center. \n3. Dip your finger in water and run it around the edge of the wrapper. \n4. Fold the wrapper in half and pinch the edges together to seal. \n5. Repeat with remaining wrappers and filling. \n6. Place dumplings in a steamer basket and steam for 10-12 minutes, or until cooked through. \n7. Serve hot with soy sauce for dipping.",
+        "rating": 4.5
+      }
+    ]
+  },
+
+  {
+    "id": 3,
+    "chef_picture": "https://img.freepik.com/free-photo/male-chef-uniform-hat-sitting-cutting-cucumber-kitchen_176474-9026.jpg?size=626&ext=jpg&ga=GA1.1.1712736525.1683002556&semt=ais",
+    "chef_name": "Giovanni Rossi",
+    "country_name": "Italy",
+    "years_of_experience": 12,
+    "num_recipes": 40,
+    "likes": 1200,
+    "bio": "Chef Giovanni Rossi is a seasoned Italian chef with over 12 years of experience in the culinary industry. His passion for traditional Italian cuisine is reflected in his delicious recipes.",
+    "recipes": [
+      {
+        "recipe_name": "Spaghetti Carbonara",
+        "ingredients": [
+          "1 lb spaghetti",
+          "1/2 lb pancetta, diced",
+          "4 egg yolks",
+          "1 cup grated Parmesan cheese",
+          "1/2 cup heavy cream"
+        ],
+        "cooking_method": "1. Cook spaghetti according to package instructions. Reserve 1/2 cup of pasta water before draining. \n2. In a large skillet, cook pancetta over medium heat until crispy. \n3. In a bowl, whisk together egg yolks, Parmesan cheese and heavy cream until well combined. \n4. Add cooked spaghetti to the skillet with pancetta and toss to coat. \n5. Remove skillet from heat and add egg mixture, stirring quickly to prevent the eggs from scrambling. \n6. If the pasta seems dry, add reserved pasta water to loosen it up. \n7. Serve hot with additional Parmesan cheese on top.",
+        "rating": 4.9
+      },
+      {
+        "recipe_name": "Margherita Pizza",
+        "ingredients": [
+          "1 lb pizza dough",
+          "1/2 cup tomato sauce",
+          "8 oz fresh mozzarella cheese, sliced",
+          "1/4 cup chopped fresh basil",
+          "2 tbsp olive oil"
+        ],
+        "cooking_method": "1. Preheat oven to 450°F. \n2. Roll out pizza dough to desired thickness and shape. \n3. Spread tomato sauce over the dough, leaving a small border around the edges. \n4. Arrange slices of mozzarella cheese evenly over the sauce. \n5. Drizzle olive oil over the pizza. \n6. Bake for 10-15 minutes until crust is crispy and cheese is melted and bubbly. \n7. Garnish with chopped fresh basil and serve hot.",
+        "rating": 4.7
+      },
+      {
+        "recipe_name": "Tiramisu",
+        "ingredients": [
+          "6 egg yolks",
+          "3/4 cup sugar",
+          "2 cups mascarpone cheese",
+          "1cup heavy cream",
+          "1 cup brewed espresso, cooled",
+          "24 ladyfingers",
+          "2 tbsp cocoa powder"
+        ],
+        "cooking_method": "1. In a large bowl, whisk together egg yolks and sugar until well combined. \n2. Add mascarpone cheese to the bowl and whisk again until smooth. \n3. In a separate bowl, beat heavy cream until stiff peaks form. \n4. Fold whipped cream into the mascarpone mixture until well combined. \n5. Dip ladyfingers in cooled espresso and arrange them in a single layer in the bottom of a 9x13 inch baking dish. \n6. Spread half of the mascarpone mixture over the ladyfingers. \n7. Repeat with another layer of dipped ladyfingers and remaining mascarpone mixture. \n8. Cover and refrigerate for at least 2 hours, or overnight. \n9. Before serving, dust cocoa powder over the top of the tiramisu.",
+        "rating": 4.8
+      }
+    ]
+  },
+
+  {
+    "id": 4,
+    "chef_picture": "https://img.freepik.com/free-photo/portrait-young-male-baker-with-his-arms-crossed-looking-camera_23-2148189025.jpg?size=626&ext=jpg&ga=GA1.1.1712736525.1683002556&semt=ais",
+    "chef_name": "Aarti Singh",
+    "country_name": "India",
+    "years_of_experience": 6,
+    "num_recipes": 20,
+    "likes": 500,
+    "bio": "Chef Aarti Singh is a talented Indian chef with over 6 years of experience in the culinary industry. Her recipes are known for their bold flavors and unique spice combinations.",
+    "recipes": [
+      {
+        "recipe_name": "Butter Chicken",
+        "ingredients": [
+          "1 lb boneless, skinless chicken breasts, cut into small pieces",
+          "1/2 cup plain Greek yogurt",
+          "1/4 cup unsalted butter",
+          "1 onion, chopped",
+          "4 cloves garlic, minced",
+          "2 tbsp grated ginger",
+          "1 tbsp garam masala",
+          "1 tsp paprika",
+          "1 tsp ground cumin",
+          "1/2 tsp ground turmeric",
+          "1/2 tsp cayenne pepper",
+          "1 can (28 oz) crushed tomatoes",
+          "1 cup heavy cream",
+          "1/4 cup chopped fresh cilantro"
+        ],
+        "cooking_method": "1. In a large bowl, mix together chicken and Greek yogurt until well combined. \n2. Melt butter in a large skillet over medium heat. \n3. Add onion, garlic and ginger to the skillet and cook for 2-3 minutes until softened. \n4. Add garam masala, paprika, cumin, turmeric and cayenne pepper to the skillet and stir well. \n5. Add chicken to the skillet and cook for 6-8 minutes until browned on all sides. \n6. Stir in crushed tomatoes and bring mixture to a simmer. \n7. Let sauce cook for 10-15 minutes until slightly thickened. \n8. Stir in heavy cream and let simmer for another 5-10 minutes. \n9. Garnish with chopped cilantro and serve hot with rice or naan bread.",
+        "rating": 4.6
+      },
+      {
+        "recipe_name": "Chana Masala",
+        "ingredients": [
+          "2 cans (15 oz each) chickpeas, drained and rinsed",
+          "1 onion, chopped",
+          "2 cloves garlic, minced",
+          "1 tbsp grated ginger",
+          "1 tsp ground coriander",
+          "1 tsp ground cumin",
+          "1 tsp garam masala",
+          "1/2 tsp ground turmeric",
+          "1/4 tsp cayenne pepper",
+          "1 can (14.5 oz) diced tomatoes",
+          "1/2 cup water",
+          "1/4 cup chopped fresh cilantro"
+        ],
+        "cooking_method": "1. Heat oil in a large skillet over medium heat. \n2. Add onion, garlic and ginger to the skillet and cook for 2-3 minutes until softened. \n3. Add coriander, cumin, garam masala, turmeric and cayenne pepper to the skillet and stir well. \n4. Add chickpeas to the skillet and stir to coat with spice mixture. \n5. Stir in diced tomatoes and water and bring mixture to a simmer. \n6. Let curry simmer for 15-20 minutes until slightly thickened. \n7. Garnish with chopped cilantro and serve hot with rice or naan bread.",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Palak Paneer",
+        "ingredients": [
+          "1 lb paneer, cut into small cubes",
+          "1 tbsp ghee or butter",
+          "1 onion, chopped",
+          "4 cloves garlic, minced",
+          "2 tbsp grated ginger",
+          "1 tsp cumin seeds",
+          "1/2 tsp ground turmeric",
+          "1/2 tsp paprika",
+          "1/4 tsp cayenne pepper",
+          "2 bunches fresh spinach, washed and chopped",
+          "1/2 cup heavy cream",
+          "1/4 cup chopped fresh cilantro"
+        ],
+        "cooking_method": "1. Heat ghee or butter in a large skillet over medium heat. \n2. Add onion, garlic and ginger to the skillet and cook for 2-3 minutes until softened. \n3. Add cumin seeds, turmeric, paprika and cayenne pepper to the skillet and stir well. \n4. Add paneer to the skillet and cook for 5-6 minutes until browned on all sides. Remove paneer from skillet and set aside. \n5. Add chopped spinach to the skillet and stir well. \n6. Cover skillet and let spinach cook for 5-7 minutes until wilted. \n7. Puree spinach mixture in a blender or food processor until smooth. \n8. Return pureed spinach mixture to the skillet and stir in heavy cream. \n9. Add paneer back to the skillet and let simmer for another 5-10 minutes. \n10. Garnish with chopped cilantro and serve hot with rice or naan bread.",
+        "rating": 4.7
+      }
+    ]
+  },
+
+  {
+    "id": 5,
+    "chef_picture": "https://img.freepik.com/free-photo/person-cooking-japanese-food_23-2149366815.jpg?size=626&ext=jpg&ga=GA1.1.1712736525.1683002556&semt=ais",
+    "chef_name": "Suman Shrestha",
+    "country_name": "Nepal",
+    "years_of_experience": 8,
+    "num_recipes": 25,
+    "likes": 700,
+    "bio": "Chef Suman Shrestha is a Nepali chef with over 8 years of experience in creating authentic Nepalese dishes. He's known for his creative use of spices and fresh ingredients.",
+    "recipes": [
+      {
+        "recipe_name": "Momo",
+        "ingredients": [
+          "1 lb ground chicken or pork",
+          "2 cups all-purpose flour",
+          "1/2 cup water",
+          "1 onion, finely chopped",
+          "4 cloves garlic, minced",
+          "1 tbsp grated ginger",
+          "1/4 cup chopped fresh cilantro",
+          "1 tsp ground cumin",
+          "1 tsp ground coriander",
+          "1/2 tsp turmeric",
+          "1/4 tsp cayenne pepper",
+          "Salt and pepper to taste"
+        ],
+        "cooking_method": "1. In a large bowl, mix together flour and water until a smooth dough forms. \n2. Cover dough and let rest for 30 minutes. \n3. In a separate bowl, mix together ground meat, onion, garlic, ginger, cilantro, cumin, coriander, turmeric, cayenne pepper, salt, and pepper until well combined. \n4. Roll out dough into thin circles. \n5. Place a spoonful of meat mixture in the center of each circle. \n6. Fold dough over filling and pinch edges together to seal. \n7. Steam momos for 10-12 minutes until cooked through. \n8. Serve hot with a dipping sauce made from soy sauce, vinegar, and chili flakes.",
+        "rating": 4.9
+      },
+      {
+        "recipe_name": "Dal Bhat",
+        "ingredients": [
+          "1 cup red lentils",
+          "3 cups water",
+          "1 onion, chopped",
+          "2 cloves garlic, minced",
+          "1 tbsp grated ginger",
+          "1 tsp ground cumin",
+          "1 tsp ground coriander",
+          "1/2 tsp turmeric",
+          "1/4 tsp cayenne pepper",
+          "Salt and pepper to taste",
+          "2 cups cooked rice"
+        ],
+        "cooking_method": "1. Rinse lentils in a fine mesh strainer and pick out any debris. \n2. In a large pot, combine lentils, water, onion, garlic, ginger, cumin, coriander, turmeric, cayenne pepper, salt, and pepper. \n3. Bring mixture to a boil then reduce heat and let simmer for 20-25 minutes until lentils are tender. \n4. Serve dal with cooked rice.",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Aloo Tama",
+        "ingredients": [
+          "2 cups bamboo shoots (tama), soaked and drained",
+          "2 medium potatoes, peeled and cut into small cubes",
+          "1 onion, chopped",
+          "2 cloves garlic, minced",
+          "1 tbsp grated ginger",
+          "1 tomato, chopped",
+          "1 tsp mustard seeds",
+          "1 tsp cumin seeds",
+          "1 tsp ground coriander",
+          "1/2 tsp turmeric",
+          "1/4 tsp cayenne pepper",
+          "Salt and pepper to taste",
+          "2 tbsp vegetable oil"
+        ],
+        "cooking_method": "1. Heat oil in a large skillet over medium heat. \n2. Add onion, garlic, ginger, mustard seeds, and cumin seeds to the skillet and cook for 2-3 minutes until fragrant. \n3. Add potatoes to the skillet and cook for 5-6 minutes until slightly browned. \n4. Stir in bamboo shoots, tomato, coriander, turmeric, cayenne pepper, salt, and pepper. \n5. Cover skillet and let mixture cook for 15-20 minutes until potatoes are tender. \n6. Serve hot with rice.",
+        "rating": 4.7
+      }
+    ]
+  },
+
+  {
+    "id": 6,
+    "chef_picture": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5342.jpg?size=626&ext=jpg&ga=GA1.1.1712736525.1683002556&semt=ais",
+    "chef_name": "Tashi Wangdi",
+    "country_name": "Bhutan",
+    "years_of_experience": 10,
+    "num_recipes": 30,
+    "likes": 800,
+    "bio": "Chef Tashi Wangdi is a Bhutanese chef with over 10 years of experience in cooking traditional Bhutanese cuisine. He's known for his use of local ingredients and unique flavor combinations.",
+    "recipes": [
+      {
+        "recipe_name": "Ema Datshi",
+        "ingredients": [
+          "6-8 green chili peppers, chopped",
+          "1 onion, sliced",
+          "4 cloves garlic, minced",
+          "2 tbsp vegetable oil",
+          "1/2 cup water",
+          "1/2 cup shredded cheese (preferably yak cheese)",
+          "Salt to taste"
+        ],
+        "cooking_method": "1. Heat oil in a large skillet over medium heat. \n2. Add onion and garlic to the skillet and cook for 2-3 minutes until softened. \n3. Add chopped chili peppers to the skillet and stir well. \n4. Add water to the skillet and bring mixture to a simmer. \n5. Let mixture cook for 10-15 minutes until slightly thickened. \n6. Stir in shredded cheese and let melt into the mixture. \n7. Serve hot with steamed rice.",
+        "rating": 4.8
+      },
+      {
+        "recipe_name": "Phaksha Paa",
+        "ingredients": [
+          "1 lb pork belly, cut into bite-sized pieces",
+          "1 onion, chopped",
+          "2 cloves garlic, minced",
+          "1 tbsp grated ginger",
+          "1 tomato, chopped",
+          "1 tsp cumin seeds",
+          "1 tsp coriander seeds",
+          "1 tsp turmeric",
+          "1/2 tsp cayenne pepper",
+          "Salt and pepper to taste",
+          "2 tbsp vegetable oil"
+        ],
+        "cooking_method": "1. Heat oil in a large skillet over medium heat. \n2. Add onion, garlic, ginger, cumin seeds, and coriander seeds to the skillet and cook for 2-3 minutes until fragrant. \n3. Add pork to the skillet and cook for 8-10 minutes until browned on all sides. \n4. Stir in tomato, turmeric, cayenne pepper, salt, and pepper. \n5. Cover skillet and let mixture simmer for 20-25 minutes until pork is tender. \n6. Serve hot with rice or buckwheat noodles.",
+        "rating": 4.6
+      },
+      {
+        "recipe_name": "Jasha Maroo",
+        "ingredients": [
+          "1 lb boneless chicken thighs, cut into bite-sized pieces",
+          "1 onion, chopped",
+          "2 cloves garlic, minced",
+          "1 tbsp grated ginger",
+          "1 tomato, chopped",
+          "1 tsp ground cumin",
+          "1 tsp ground coriander",
+          "1/2 tsp ground turmeric",
+          "1/4 tsp cayenne pepper",
+          "Salt and pepper to taste",
+          "2 tbsp vegetable oil",
+          "1/4 cup chopped fresh cilantro"
+        ],
+        "cooking_method": "1. Heat oil in a large skillet over medium heat. \n2. Add onion, garlic, and ginger to the skillet and cook for 2-3 minutes until softened. \n3. Add chicken to the skillet and cook for 6-8 minutes until browned on all sides. \n4. Stir in tomato, cumin, coriander, turmeric, cayenne pepper, salt, and pepper. \n5. Cover skillet and let mixture simmer for 20-25 minutes until chicken is cooked through. \n6. Garnish with chopped cilantro and serve hot with rice or buckwheat noodles.",
+        "rating": 4.7
+      }
+    ]
+  }
+]
