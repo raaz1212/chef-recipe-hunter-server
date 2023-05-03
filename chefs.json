@@ -1,0 +1,49 @@
+[
+    {
+      "id": 1,
+      "chef_picture": "https://img.freepik.com/free-photo/happy-cook-smelling-salad-with-meat-plate_23-2148040176.jpg?size=626&ext=jpg&ga=GA1.1.1712736525.1683002556&semt=ais",
+      "chef_name": "Maria Garcia",
+      "country_name": "Mexico",
+      "years_of_experience": 10,
+      "num_recipes": 30,
+      "likes": 800,
+      "bio": "Chef Maria Garcia is a renowned Mexican chef with over 10 years of experience in the culinary industry. Her passion for authentic Mexican flavors and ingredients is reflected in her delicious recipes.",
+      "recipes": [
+        {
+          "recipe_name": "Chicken Enchiladas",
+          "ingredients": [
+            "2 cups cooked and shredded chicken",
+            "8-10 corn tortillas",
+            "1 cup enchilada sauce",
+            "1 cup shredded cheddar cheese",
+            "1/4 cup chopped cilantro"
+          ],
+          "cooking_method": "1. Preheat oven to 375°F. \n2. Spread 1/4 cup of enchilada sauce on the bottom of a baking dish. \n3. Dip each tortilla in the remaining enchilada sauce and fill with shredded chicken. \n4. Roll up each tortilla and place in baking dish seam-side down. \n5. Pour remaining enchilada sauce over the enchiladas and sprinkle with shredded cheese. \n6. Bake for 20-25 minutes until cheese is melted and bubbly. \n7. Garnish with chopped cilantro and serve hot.",
+          "rating": 4.5
+        },
+        {
+          "recipe_name": "Guacamole",
+          "ingredients": [
+            "3 ripe avocados",
+            "1/4 cup chopped red onion",
+            "1/4 cup chopped fresh cilantro",
+            "2 tbsp lime juice",
+            "1 jalapeno pepper, seeded and minced"
+          ],
+          "cooking_method": "1. Cut avocados in half, remove the pit and scoop out the flesh into a bowl. \n2. Add red onion, cilantro, lime juice and jalapeno pepper to the bowl. \n3. Mash everything together with a fork until desired consistency is reached. \n4. Serve immediately with tortilla chips or as a condiment for tacos, burritos, etc.",
+          "rating": 4.7
+        },
+        {
+          "recipe_name": "Pico de Gallo",
+          "ingredients": [
+            "4 Roma tomatoes, diced",
+            "1/4 cup finely diced red onion",
+            "1/4 cup chopped fresh cilantro",
+            "1 jalapeno pepper, seeded and minced",
+            "2 tbsp lime juice"
+          ],
+          "cooking_method": "1. In a bowl, mix together diced tomatoes, red onion, cilantro and jalapeno pepper. \n2. Drizzle lime juice over the mixture and toss everything together. \n3. Refrigerate for at least 30 minutes before serving to allow flavors to meld together. \n4. Serve with tortilla chips or as a condiment for tacos, burritos, etc.",
+          "rating": 4.3
+        }
+      ]
+    },
