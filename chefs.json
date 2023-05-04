@@ -10,6 +10,7 @@
     "bio": "Chef Maria Garcia is a renowned Mexican chef with over 10 years of experience in the culinary industry. Her passion for authentic Mexican flavors and ingredients is reflected in her delicious recipes.",
     "recipes": [
       {
+        "id": 11,
         "recipe_name": "Chicken Enchiladas",
         "ingredients": [
           "2 cups cooked and shredded chicken",
@@ -22,6 +23,7 @@
         "rating": 4.5
       },
       {
+        "id": 12,
         "recipe_name": "Guacamole",
         "ingredients": [
           "3 ripe avocados",
@@ -34,6 +36,7 @@
         "rating": 4.7
       },
       {
+        "id": 13,
         "recipe_name": "Pico de Gallo",
         "ingredients": [
           "4 Roma tomatoes, diced",
@@ -58,6 +61,7 @@
     "bio": "Chef Juan Martinez is a talented Mexican chef who has been cooking for over 8 years. He specializes in creating traditional and innovative Mexican dishes that are bursting with flavor.",
     "recipes": [
       {
+        "id": 21,
         "recipe_name": "Taco Salad",
         "ingredients": [
           "1 lb. ground beef",
@@ -78,6 +82,7 @@
         "rating": 4.2
       },
       {
+        "id": 22,
         "recipe_name": "Chiles Rellenos",
         "ingredients": [
           "6 poblano peppers",
@@ -97,6 +102,7 @@
         "rating": 4.6
       },
       {
+        "id": 23,
         "recipe_name": "Mole Poblano",
         "ingredients": [
           "3 dried ancho chiles, stemmed and seeded",
@@ -132,6 +138,7 @@
     "bio": "Chef Pedro Sanchez is a veteran of the culinary world, with over 12 years of experience crafting delicious, authentic Mexican dishes. His passion for cooking began at an early age and has only grown stronger over time.",
     "recipes": [
       {
+        "id": 31,
         "recipe_name": "Tamales",
         "ingredients": [
           "2 cups masa harina",
@@ -148,6 +155,7 @@
         "rating": 4.9
       },
       {
+        "id": 32,
         "recipe_name": "Churros",
         "ingredients": [
           "1 cup water",
@@ -163,6 +171,7 @@
         "rating": 4.2
       },
       {
+        "id": 33,
         "recipe_name": "Pozole Rojo",
         "ingredients": [
           "1 onion, chopped",
@@ -194,6 +203,7 @@
     "bio": "Chef Ana Rodriguez is a talented Mexican chef who has been cooking for over 10 years. She specializes in creating traditional and modern Mexican dishes that showcase the flavors and ingredients of her country.",
     "recipes": [
       {
+        "id": 41,
         "recipe_name": "Enchiladas Verdes",
         "ingredients": [
           "12 corn tortillas",
@@ -209,6 +219,7 @@
         "rating": 4.6
       },
       {
+        "id": 42,
         "recipe_name": "Sopa de Tortilla",
         "ingredients": [
           "1 onion, chopped",
@@ -231,6 +242,7 @@
         "rating": 4.8
       },
       {
+        "id": 43,
         "recipe_name": "Tostadas",
         "ingredients": [
           "1 lb. ground beef",
@@ -262,6 +274,7 @@
     "bio": "Chef Maria Torres is a talented chef with over 12 years of experience cooking delicious Mexican dishes. She is passionate about sharing her love of Mexican cuisine with others and creating meals that evoke memories and emotions.",
     "recipes": [
       {
+        "id": 51,
         "recipe_name": "Pico de Gallo",
         "ingredients": [
           "4 ripe tomatoes, diced",
@@ -276,6 +289,7 @@
         "rating": 4.5
       },
       {
+        "id": 52,
         "recipe_name": "Tacos al Pastor",
         "ingredients": [
           "2 lbs. pork shoulder, sliced into thin strips",
@@ -292,6 +306,7 @@
         "rating": 4.9
       },
       {
+        "id": 53,
         "recipe_name": "Churros",
         "ingredients": [
           "1 cup water",
@@ -320,6 +335,7 @@
     "bio": "Chef Juan Rodriguez is a seasoned chef with over 18 years of experience cooking delicious Mexican cuisine. His passion for cooking began when he was a child, watching his mother and grandmother prepare traditional dishes with love and care.",
     "recipes": [
       {
+        "id": 61,
         "recipe_name": "Enchiladas Verdes",
         "ingredients": [
           "12 corn tortillas",
@@ -338,6 +354,7 @@
         "rating": 4.8
       },
       {
+        "id": 62,
         "recipe_name": "Guacamole",
         "ingredients": [
           "3 ripe avocados, peeled and pitted",
@@ -352,6 +369,7 @@
         "rating": 4.6
       },
       {
+        "id": 63,
         "recipe_name": "Sopa de Fideo",
         "ingredients": [
           "1 lb. fideo (vermicelli pasta)",
